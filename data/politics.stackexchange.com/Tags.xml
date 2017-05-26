@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tags>
+  <row Id="1" TagName="electoral" Count="2" />
+  <row Id="3" TagName="voting-systems" Count="89" ExcerptPostId="10915" WikiPostId="10914" />
+  <row Id="5" TagName="theoretical" Count="5" />
+  <row Id="6" TagName="referendum" Count="24" />
+  <row Id="7" TagName="voting" Count="161" ExcerptPostId="159" WikiPostId="158" />
+  <row Id="8" TagName="parties" Count="127" ExcerptPostId="10860" WikiPostId="10859" />
+  <row Id="9" TagName="policies" Count="22" />
+  <row Id="11" TagName="international" Count="43" />
+  <row Id="12" TagName="electoral-college" Count="57" ExcerptPostId="9644" WikiPostId="9643" />
+  <row Id="13" TagName="united-states" Count="1695" ExcerptPostId="398" WikiPostId="397" />
+  <row Id="15" TagName="democracy" Count="174" ExcerptPostId="400" WikiPostId="399" />
+  <row Id="18" TagName="united-kingdom" Count="207" ExcerptPostId="148" WikiPostId="147" />
+  <row Id="19" TagName="france" Count="24" ExcerptPostId="14241" WikiPostId="14240" />
+  <row Id="20" TagName="israel" Count="64" ExcerptPostId="14724" WikiPostId="14723" />
+  <row Id="21" TagName="electronic-voting" Count="8" />
+  <row Id="27" TagName="popularity" Count="7" />
+  <row Id="28" TagName="election" Count="409" ExcerptPostId="161" WikiPostId="160" />
+  <row Id="29" TagName="polling" Count="53" />
+  <row Id="34" TagName="senate" Count="62" ExcerptPostId="14726" WikiPostId="14725" />
+  <row Id="40" TagName="range-voting" Count="3" ExcerptPostId="654" WikiPostId="653" />
+  <row Id="41" TagName="gerrymandering" Count="11" ExcerptPostId="492" WikiPostId="491" />
+  <row Id="42" TagName="redistricting" Count="3" />
+  <row Id="44" TagName="transparency" Count="8" />
+  <row Id="46" TagName="healthcare" Count="51" />
+  <row Id="48" TagName="taxes" Count="73" ExcerptPostId="1504" WikiPostId="1503" />
+  <row Id="49" TagName="economy" Count="92" />
+  <row Id="52" TagName="law" Count="189" ExcerptPostId="3352" WikiPostId="3351" />
+  <row Id="53" TagName="parliament" Count="63" ExcerptPostId="15136" WikiPostId="15135" />
+  <row Id="55" TagName="president" Count="188" ExcerptPostId="14538" WikiPostId="14537" />
+  <row Id="56" TagName="presidential" Count="38" />
+  <row Id="57" TagName="parliamentary" Count="12" />
+  <row Id="59" TagName="constitution" Count="184" ExcerptPostId="702" WikiPostId="701" />
+  <row Id="60" TagName="justice" Count="18" />
+  <row Id="61" TagName="faithless-elector" Count="11" />
+  <row Id="62" TagName="election-requirements" Count="9" />
+  <row Id="63" TagName="inequality" Count="15" ExcerptPostId="10810" WikiPostId="10809" />
+  <row Id="64" TagName="europe" Count="56" ExcerptPostId="1502" WikiPostId="1501" />
+  <row Id="65" TagName="european-union" Count="158" ExcerptPostId="10381" WikiPostId="10380" />
+  <row Id="66" TagName="nationalism" Count="9" />
+  <row Id="67" TagName="independence" Count="21" />
+  <row Id="72" TagName="corruption" Count="19" />
+  <row Id="73" TagName="federalism" Count="24" />
+  <row Id="74" TagName="territory" Count="22" />
+  <row Id="75" TagName="supreme-court" Count="60" ExcerptPostId="10806" WikiPostId="10805" />
+  <row Id="77" TagName="filibuster" Count="12" />
+  <row Id="78" TagName="senate-rules" Count="32" />
+  <row Id="79" TagName="checks-and-balances" Count="5" />
+  <row Id="80" TagName="judicial-branch" Count="14" />
+  <row Id="81" TagName="executive-branch" Count="25" />
+  <row Id="83" TagName="cuba" Count="15" />
+  <row Id="85" TagName="government" Count="110" ExcerptPostId="10971" WikiPostId="10970" />
+  <row Id="86" TagName="central-bank" Count="8" />
+  <row Id="87" TagName="federal-reserve" Count="9" />
+  <row Id="88" TagName="debt" Count="33" />
+  <row Id="89" TagName="money-supply" Count="6" />
+  <row Id="91" TagName="separation-of-powers" Count="17" />
+  <row Id="92" TagName="indicators" Count="5" />
+  <row Id="93" TagName="ecology" Count="4" />
+  <row Id="94" TagName="sustainable-development" Count="5" ExcerptPostId="11785" WikiPostId="11784" />
+  <row Id="100" TagName="voting-districts" Count="8" ExcerptPostId="163" WikiPostId="162" />
+  <row Id="102" TagName="ideology" Count="53" ExcerptPostId="11079" WikiPostId="11078" />
+  <row Id="104" TagName="australia" Count="64" ExcerptPostId="659" WikiPostId="658" />
+  <row Id="105" TagName="military" Count="56" ExcerptPostId="14730" WikiPostId="14729" />
+  <row Id="107" TagName="legislative-process" Count="33" ExcerptPostId="12170" WikiPostId="12169" />
+  <row Id="108" TagName="war" Count="88" ExcerptPostId="10964" WikiPostId="10963" />
+  <row Id="109" TagName="political-system" Count="73" ExcerptPostId="11073" WikiPostId="11072" />
+  <row Id="111" TagName="social-security" Count="10" />
+  <row Id="112" TagName="libertarianism" Count="28" />
+  <row Id="113" TagName="communism" Count="40" ExcerptPostId="1506" WikiPostId="1505" />
+  <row Id="115" TagName="marxism" Count="17" />
+  <row Id="117" TagName="terrorism" Count="74" ExcerptPostId="14728" WikiPostId="14727" />
+  <row Id="120" TagName="philosophy" Count="9" />
+  <row Id="122" TagName="direct-action" Count="4" />
+  <row Id="124" TagName="society" Count="17" />
+  <row Id="126" TagName="terminology" Count="44" ExcerptPostId="10812" WikiPostId="10811" />
+  <row Id="129" TagName="capitalism" Count="15" />
+  <row Id="131" TagName="historiography" Count="2" />
+  <row Id="132" TagName="constitutional-monarchy" Count="13" />
+  <row Id="133" TagName="canada" Count="30" />
+  <row Id="134" TagName="commonwealth" Count="7" ExcerptPostId="270" WikiPostId="269" />
+  <row Id="135" TagName="anarchism" Count="19" ExcerptPostId="12155" WikiPostId="12154" />
+  <row Id="137" TagName="slavery" Count="10" />
+  <row Id="140" TagName="head-of-state" Count="12" />
+  <row Id="141" TagName="local-government" Count="24" ExcerptPostId="8683" WikiPostId="8682" />
+  <row Id="142" TagName="administrative-division" Count="3" />
+  <row Id="143" TagName="rule-of-law" Count="17" />
+  <row Id="144" TagName="policy" Count="53" ExcerptPostId="14736" WikiPostId="14735" />
+  <row Id="145" TagName="science" Count="7" />
+  <row Id="147" TagName="nuclear-weapons" Count="44" />
+  <row Id="148" TagName="proliferation" Count="6" />
+  <row Id="150" TagName="civil-rights" Count="20" />
+  <row Id="152" TagName="police" Count="15" />
+  <row Id="154" TagName="pardon" Count="9" />
+  <row Id="155" TagName="fascism" Count="11" />
+  <row Id="156" TagName="nazism" Count="7" />
+  <row Id="157" TagName="power" Count="11" />
+  <row Id="158" TagName="measurement" Count="8" />
+  <row Id="159" TagName="geopolitics" Count="40" ExcerptPostId="10383" WikiPostId="10382" />
+  <row Id="162" TagName="sovereignty" Count="18" />
+  <row Id="166" TagName="sortition" Count="4" />
+  <row Id="169" TagName="pacifism" Count="2" />
+  <row Id="170" TagName="demarchy" Count="3" />
+  <row Id="177" TagName="socialism" Count="31" />
+  <row Id="178" TagName="direct-democracy" Count="13" />
+  <row Id="184" TagName="alternative-systems" Count="5" />
+  <row Id="189" TagName="form-of-government" Count="19" />
+  <row Id="196" TagName="iraq" Count="28" />
+  <row Id="200" TagName="ochlocracy" Count="3" />
+  <row Id="201" TagName="copyright" Count="7" />
+  <row Id="202" TagName="liberalism" Count="23" />
+  <row Id="204" TagName="planning" Count="2" />
+  <row Id="206" TagName="statehood" Count="11" />
+  <row Id="208" TagName="italy" Count="10" ExcerptPostId="8347" WikiPostId="8346" />
+  <row Id="211" TagName="marriage" Count="13" />
+  <row Id="214" TagName="treaty" Count="19" />
+  <row Id="215" TagName="drugs" Count="17" />
+  <row Id="218" TagName="legislation" Count="22" />
+  <row Id="220" TagName="political-theory" Count="101" ExcerptPostId="9010" WikiPostId="9009" />
+  <row Id="222" TagName="india" Count="67" ExcerptPostId="2409" WikiPostId="2408" />
+  <row Id="224" TagName="pakistan" Count="26" ExcerptPostId="13825" WikiPostId="13824" />
+  <row Id="226" TagName="feminism" Count="8" />
+  <row Id="227" TagName="education" Count="33" />
+  <row Id="228" TagName="ballot" Count="14" />
+  <row Id="231" TagName="property" Count="5" />
+  <row Id="233" TagName="land" Count="3" />
+  <row Id="235" TagName="currency" Count="13" />
+  <row Id="237" TagName="factor-analysis" Count="3" />
+  <row Id="238" TagName="definitions" Count="19" ExcerptPostId="9654" WikiPostId="9653" />
+  <row Id="244" TagName="grassroots" Count="4" />
+  <row Id="245" TagName="protests" Count="21" />
+  <row Id="247" TagName="corporations" Count="11" />
+  <row Id="249" TagName="campaigning" Count="36" />
+  <row Id="251" TagName="money" Count="21" />
+  <row Id="254" TagName="euro" Count="11" />
+  <row Id="256" TagName="labor" Count="9" />
+  <row Id="257" TagName="economics" Count="50" ExcerptPostId="1500" WikiPostId="1499" />
+  <row Id="262" TagName="guns" Count="23" ExcerptPostId="741" WikiPostId="740" />
+  <row Id="263" TagName="budget" Count="46" />
+  <row Id="264" TagName="same-sex-marriage" Count="10" />
+  <row Id="270" TagName="republican-party" Count="50" ExcerptPostId="10057" WikiPostId="10056" />
+  <row Id="278" TagName="income" Count="12" />
+  <row Id="280" TagName="republic" Count="8" />
+  <row Id="281" TagName="third-party" Count="8" />
+  <row Id="282" TagName="history" Count="54" ExcerptPostId="10820" WikiPostId="10819" />
+  <row Id="284" TagName="political-transitions" Count="9" />
+  <row Id="290" TagName="africa" Count="12" />
+  <row Id="292" TagName="fec" Count="2" ExcerptPostId="624" WikiPostId="623" />
+  <row Id="294" TagName="china" Count="52" ExcerptPostId="14732" WikiPostId="14731" />
+  <row Id="301" TagName="egalitarianism" Count="3" />
+  <row Id="302" TagName="one-person-one-vote" Count="11" />
+  <row Id="303" TagName="nepal" Count="3" />
+  <row Id="305" TagName="venezuela" Count="6" />
+  <row Id="306" TagName="presidency-term" Count="12" />
+  <row Id="310" TagName="abortion" Count="5" />
+  <row Id="312" TagName="lgbt" Count="7" />
+  <row Id="313" TagName="religion" Count="41" ExcerptPostId="10808" WikiPostId="10807" />
+  <row Id="315" TagName="bill-of-rights" Count="13" />
+  <row Id="316" TagName="foreign-policy" Count="39" />
+  <row Id="321" TagName="armed-conflict" Count="10" />
+  <row Id="323" TagName="human-rights" Count="37" ExcerptPostId="1369" WikiPostId="1368" />
+  <row Id="324" TagName="switzerland" Count="8" />
+  <row Id="327" TagName="britain" Count="20" />
+  <row Id="330" TagName="gender" Count="7" />
+  <row Id="334" TagName="railroad" Count="4" />
+  <row Id="335" TagName="infrastructure" Count="13" />
+  <row Id="338" TagName="forecasting" Count="3" />
+  <row Id="340" TagName="united-nations" Count="77" ExcerptPostId="14057" WikiPostId="14056" />
+  <row Id="345" TagName="internet" Count="9" />
+  <row Id="348" TagName="russian-federation" Count="105" ExcerptPostId="15667" WikiPostId="15666" />
+  <row Id="354" TagName="conservatism" Count="17" />
+  <row Id="355" TagName="finland" Count="2" />
+  <row Id="358" TagName="hunting" Count="2" />
+  <row Id="359" TagName="sweden" Count="9" />
+  <row Id="363" TagName="immigration" Count="79" />
+  <row Id="370" TagName="financing" Count="4" />
+  <row Id="375" TagName="north-korea" Count="25" />
+  <row Id="376" TagName="financial-crisis" Count="13" ExcerptPostId="6602" WikiPostId="6601" />
+  <row Id="378" TagName="netherlands" Count="24" />
+  <row Id="384" TagName="us-state-laws" Count="34" />
+  <row Id="385" TagName="economic-policy" Count="45" />
+  <row Id="386" TagName="languages" Count="14" />
+  <row Id="389" TagName="rules-of-war" Count="11" ExcerptPostId="11413" WikiPostId="11412" />
+  <row Id="390" TagName="international-law" Count="111" ExcerptPostId="10804" WikiPostId="10803" />
+  <row Id="391" TagName="military-law" Count="10" />
+  <row Id="396" TagName="japan" Count="29" />
+  <row Id="402" TagName="iran" Count="41" />
+  <row Id="405" TagName="data-sources" Count="14" />
+  <row Id="406" TagName="homosexuality" Count="4" />
+  <row Id="408" TagName="lobbying" Count="19" ExcerptPostId="12168" WikiPostId="12167" />
+  <row Id="409" TagName="germany" Count="38" />
+  <row Id="411" TagName="privacy" Count="11" />
+  <row Id="417" TagName="trade" Count="22" />
+  <row Id="420" TagName="citizenship" Count="22" />
+  <row Id="422" TagName="international-relations" Count="109" />
+  <row Id="430" TagName="borders" Count="18" ExcerptPostId="10836" WikiPostId="10835" />
+  <row Id="434" TagName="employment" Count="12" />
+  <row Id="435" TagName="oecd" Count="3" />
+  <row Id="436" TagName="statistics" Count="28" />
+  <row Id="439" TagName="asylum" Count="8" />
+  <row Id="444" TagName="regulation" Count="17" />
+  <row Id="446" TagName="poverty" Count="6" />
+  <row Id="447" TagName="political-spectrum" Count="13" />
+  <row Id="448" TagName="nuclear-energy" Count="7" />
+  <row Id="450" TagName="judiciary" Count="7" />
+  <row Id="452" TagName="barack-obama" Count="27" ExcerptPostId="14594" WikiPostId="14593" />
+  <row Id="457" TagName="palestine" Count="37" />
+  <row Id="458" TagName="egypt" Count="8" />
+  <row Id="461" TagName="social-welfare" Count="11" />
+  <row Id="467" TagName="syria" Count="49" ExcerptPostId="14734" WikiPostId="14733" />
+  <row Id="470" TagName="specific-elections" Count="10" />
+  <row Id="471" TagName="founding-fathers" Count="4" />
+  <row Id="475" TagName="electorate" Count="5" />
+  <row Id="476" TagName="non-aggression" Count="3" />
+  <row Id="478" TagName="shutdown" Count="28" />
+  <row Id="479" TagName="congress" Count="145" ExcerptPostId="8018" WikiPostId="8017" />
+  <row Id="485" TagName="debt-ceiling" Count="3" />
+  <row Id="487" TagName="procedure" Count="7" />
+  <row Id="489" TagName="weapons" Count="10" />
+  <row Id="490" TagName="loss-of-supply" Count="4" />
+  <row Id="491" TagName="illegal-immigration" Count="20" />
+  <row Id="493" TagName="veto" Count="10" />
+  <row Id="494" TagName="privatization" Count="3" />
+  <row Id="496" TagName="advertising" Count="7" />
+  <row Id="497" TagName="media" Count="36" />
+  <row Id="499" TagName="whistleblowers" Count="6" />
+  <row Id="507" TagName="amendment" Count="10" />
+  <row Id="508" TagName="state-legislatures" Count="9" />
+  <row Id="510" TagName="secession" Count="12" />
+  <row Id="511" TagName="civil-war" Count="8" ExcerptPostId="10968" WikiPostId="10967" />
+  <row Id="513" TagName="welfare" Count="6" />
+  <row Id="515" TagName="subsidies" Count="4" />
+  <row Id="516" TagName="scotland" Count="18" ExcerptPostId="11496" WikiPostId="11495" />
+  <row Id="518" TagName="ireland" Count="5" />
+  <row Id="519" TagName="income-inequality" Count="12" />
+  <row Id="522" TagName="meritocracy" Count="2" ExcerptPostId="15348" WikiPostId="15347" />
+  <row Id="523" TagName="ukraine" Count="38" ExcerptPostId="8724" WikiPostId="8723" />
+  <row Id="527" TagName="crimea" Count="14" />
+  <row Id="528" TagName="gas" Count="2" />
+  <row Id="535" TagName="cold-war" Count="6" />
+  <row Id="544" TagName="monarchy" Count="20" ExcerptPostId="16186" WikiPostId="16185" />
+  <row Id="545" TagName="turkey" Count="39" />
+  <row Id="549" TagName="discrimination" Count="14" ExcerptPostId="3383" WikiPostId="3382" />
+  <row Id="555" TagName="gaza" Count="3" />
+  <row Id="556" TagName="new-zealand" Count="1" ExcerptPostId="4669" WikiPostId="4668" />
+  <row Id="563" TagName="south-korea" Count="9" />
+  <row Id="564" TagName="middle-east" Count="27" />
+  <row Id="567" TagName="islamic-state" Count="38" ExcerptPostId="9581" WikiPostId="9580" />
+  <row Id="570" TagName="ebola" Count="2" />
+  <row Id="573" TagName="social-politics" Count="19" />
+  <row Id="575" TagName="campaign-finance" Count="22" />
+  <row Id="576" TagName="identity-politics" Count="4" ExcerptPostId="10955" WikiPostId="10954" />
+  <row Id="578" TagName="soviet" Count="12" />
+  <row Id="581" TagName="basic-income" Count="5" ExcerptPostId="6378" WikiPostId="6377" />
+  <row Id="588" TagName="saudi-arabia" Count="16" />
+  <row Id="595" TagName="greece" Count="12" />
+  <row Id="596" TagName="ngos" Count="4" ExcerptPostId="7627" WikiPostId="7626" />
+  <row Id="600" TagName="nato" Count="19" />
+  <row Id="602" TagName="global-warming" Count="8" />
+  <row Id="608" TagName="foreign-aid" Count="3" />
+  <row Id="613" TagName="peace-treaty" Count="3" />
+  <row Id="614" TagName="world-war-ii" Count="10" />
+  <row Id="617" TagName="succession" Count="10" />
+  <row Id="619" TagName="taiwan" Count="6" />
+  <row Id="620" TagName="mexico" Count="9" />
+  <row Id="621" TagName="zimbabwe" Count="2" />
+  <row Id="623" TagName="poland" Count="7" />
+  <row Id="628" TagName="labour-party" Count="8" ExcerptPostId="11540" WikiPostId="11539" />
+  <row Id="638" TagName="mongolia" Count="2" />
+  <row Id="640" TagName="population" Count="6" />
+  <row Id="641" TagName="spain" Count="3" />
+  <row Id="644" TagName="yemen-crisis" Count="2" />
+  <row Id="645" TagName="kurdistan" Count="5" />
+  <row Id="646" TagName="western-world" Count="9" ExcerptPostId="9062" WikiPostId="9061" />
+  <row Id="647" TagName="primaries" Count="50" ExcerptPostId="9134" WikiPostId="9133" />
+  <row Id="650" TagName="political-history" Count="14" />
+  <row Id="651" TagName="voter-turnout" Count="8" />
+  <row Id="656" TagName="petition" Count="10" ExcerptPostId="9480" WikiPostId="9479" />
+  <row Id="659" TagName="donald-trump" Count="146" ExcerptPostId="9520" WikiPostId="9519" />
+  <row Id="660" TagName="crime" Count="18" />
+  <row Id="661" TagName="islam" Count="12" />
+  <row Id="665" TagName="refugees" Count="12" />
+  <row Id="673" TagName="demographics" Count="4" />
+  <row Id="674" TagName="impeachment" Count="10" />
+  <row Id="676" TagName="nomination" Count="7" />
+  <row Id="682" TagName="right-wing" Count="9" />
+  <row Id="685" TagName="anarcho-capitalism" Count="5" ExcerptPostId="10465" WikiPostId="10464" />
+  <row Id="686" TagName="nap" Count="1" ExcerptPostId="10467" WikiPostId="10466" />
+  <row Id="689" TagName="panama-papers" Count="4" ExcerptPostId="10696" WikiPostId="10695" />
+  <row Id="690" TagName="freedom-of-speech" Count="12" />
+  <row Id="692" TagName="hillary-clinton" Count="38" ExcerptPostId="10613" WikiPostId="10612" />
+  <row Id="693" TagName="bernie-sanders" Count="16" />
+  <row Id="694" TagName="democratic-primary" Count="7" />
+  <row Id="695" TagName="democratic-party" Count="15" />
+  <row Id="696" TagName="ttip" Count="7" ExcerptPostId="10693" WikiPostId="10692" />
+  <row Id="697" TagName="free-trade" Count="4" />
+  <row Id="698" TagName="republican-primary" Count="4" />
+  <row Id="699" TagName="ceta" Count="4" />
+  <row Id="702" TagName="california" Count="6" />
+  <row Id="706" TagName="scottish-national-party" Count="3" />
+  <row Id="711" TagName="political-leaders" Count="7" />
+  <row Id="715" TagName="electoral-system" Count="4" />
+  <row Id="716" TagName="intl-political-economy" Count="4" />
+  <row Id="718" TagName="political-commentary" Count="2" />
+  <row Id="720" TagName="political-research" Count="3" />
+  <row Id="723" TagName="kashmir" Count="3" />
+  <row Id="725" TagName="international-orgs" Count="4" />
+  <row Id="727" TagName="atomic-bombing" Count="2" />
+  <row Id="728" TagName="war-crime" Count="6" />
+  <row Id="730" TagName="racism" Count="4" />
+  <row Id="733" TagName="conservative-party" Count="1" ExcerptPostId="11542" WikiPostId="11541" />
+  <row Id="736" TagName="denmark" Count="2" />
+  <row Id="740" TagName="brexit" Count="59" ExcerptPostId="11405" WikiPostId="11404" />
+  <row Id="743" TagName="fundraising" Count="2" />
+  <row Id="744" TagName="belgium" Count="3" />
+  <row Id="745" TagName="contract-law" Count="2" />
+  <row Id="746" TagName="ethics" Count="6" />
+  <row Id="748" TagName="exit-polls" Count="3" />
+  <row Id="752" TagName="puerto-rico" Count="3" />
+  <row Id="757" TagName="classified-information" Count="7" />
+  <row Id="761" TagName="coup" Count="6" />
+  <row Id="762" TagName="reference-request" Count="8" ExcerptPostId="11714" WikiPostId="11713" />
+  <row Id="769" TagName="wikileaks" Count="4" />
+  <row Id="772" TagName="presidential-election" Count="161" ExcerptPostId="14722" WikiPostId="14721" />
+  <row Id="773" TagName="propaganda" Count="5" />
+  <row Id="774" TagName="george-w-bush" Count="3" ExcerptPostId="14596" WikiPostId="14595" />
+  <row Id="778" TagName="citizen-activism" Count="2" />
+  <row Id="781" TagName="debate" Count="6" />
+  <row Id="782" TagName="twelfth-amendment" Count="3" />
+  <row Id="783" TagName="dnc" Count="2" />
+  <row Id="784" TagName="voting-registration" Count="5" />
+  <row Id="785" TagName="email" Count="2" />
+  <row Id="787" TagName="diplomacy" Count="8" />
+  <row Id="788" TagName="indonesia" Count="1" />
+  <row Id="790" TagName="equatorial-guinea" Count="1" />
+  <row Id="793" TagName="538" Count="1" />
+  <row Id="794" TagName="reparations" Count="1" />
+  <row Id="797" TagName="emigration" Count="1" />
+  <row Id="798" TagName="affordable-care-act" Count="8" ExcerptPostId="13267" WikiPostId="13266" />
+  <row Id="801" TagName="muslim-brotherhood" Count="1" />
+  <row Id="807" TagName="minorities" Count="2" />
+  <row Id="808" TagName="voting-patterns" Count="1" />
+  <row Id="809" TagName="transhumanism" Count="2" />
+  <row Id="810" TagName="plurality-voting-system" Count="2" />
+  <row Id="811" TagName="voting-machines" Count="1" />
+  <row Id="812" TagName="election-fraud" Count="3" />
+  <row Id="813" TagName="dictatorship" Count="1" />
+  <row Id="815" TagName="due-process" Count="1" />
+  <row Id="816" TagName="enemy-combatants" Count="2" />
+  <row Id="817" TagName="gitmo" Count="2" />
+  <row Id="823" TagName="political-symbols" Count="1" />
+  <row Id="824" TagName="pearl-harbor" Count="1" />
+  <row Id="825" TagName="library-of-congress" Count="1" />
+  <row Id="827" TagName="defense-department" Count="1" />
+  <row Id="828" TagName="commander-in-chief" Count="1" />
+  <row Id="829" TagName="recount" Count="1" />
+  <row Id="830" TagName="jill-stein" Count="1" ExcerptPostId="13976" WikiPostId="13975" />
+  <row Id="831" TagName="green-party" Count="2" />
+  <row Id="833" TagName="cabinet" Count="9" />
+  <row Id="834" TagName="fake-news" Count="3" />
+  <row Id="836" TagName="administrative-review" Count="1" />
+  <row Id="837" TagName="house-of-representatives" Count="10" />
+  <row Id="842" TagName="wales" Count="1" />
+  <row Id="845" TagName="libya" Count="2" />
+  <row Id="854" TagName="score-voting" Count="2" />
+  <row Id="855" TagName="luxembourg" Count="1" ExcerptPostId="14230" WikiPostId="14229" />
+  <row Id="856" TagName="surveillance" Count="2" />
+  <row Id="858" TagName="norway" Count="1" />
+  <row Id="861" TagName="political-appointments" Count="5" />
+  <row Id="862" TagName="prohibition" Count="2" />
+  <row Id="866" TagName="clinton-foundation" Count="1" />
+  <row Id="867" TagName="inauguration" Count="11" />
+  <row Id="868" TagName="censorship" Count="1" />
+  <row Id="872" TagName="romania" Count="3" ExcerptPostId="14886" WikiPostId="14885" />
+  <row Id="873" TagName="mike-pence" Count="1" />
+  <row Id="875" TagName="vice-president" Count="6" />
+  <row Id="876" TagName="judaism" Count="4" />
+  <row Id="877" TagName="ukip" Count="1" ExcerptPostId="14738" WikiPostId="14737" />
+  <row Id="878" TagName="morocco" Count="2" />
+  <row Id="879" TagName="human-development-index" Count="1" />
+  <row Id="885" TagName="kuwait" Count="1" />
+  <row Id="889" TagName="public-pensions" Count="1" />
+  <row Id="890" TagName="executive-order" Count="5" />
+  <row Id="891" TagName="stv" Count="1" />
+  <row Id="892" TagName="mitch-mcconnell" Count="1" />
+  <row Id="893" TagName="secretary-of-state" Count="1" />
+  <row Id="894" TagName="infringement" Count="2" />
+  <row Id="895" TagName="federal-court" Count="1" />
+  <row Id="896" TagName="espionage" Count="1" />
+  <row Id="897" TagName="domestic-terrorism" Count="1" />
+  <row Id="898" TagName="post-truth" Count="2" />
+  <row Id="900" TagName="cyprus" Count="2" />
+  <row Id="901" TagName="social-media" Count="2" />
+  <row Id="903" TagName="demonstration" Count="1" />
+  <row Id="904" TagName="crowd-size" Count="1" />
+  <row Id="906" TagName="estimation" Count="1" />
+  <row Id="909" TagName="nobel-peace-prize" Count="1" />
+  <row Id="912" TagName="conflict-of-interests" Count="1" ExcerptPostId="16166" WikiPostId="16165" />
+  <row Id="918" TagName="public-administration" Count="2" ExcerptPostId="15603" WikiPostId="15602" />
+  <row Id="919" TagName="illiberal-democracy" Count="1" />
+  <row Id="922" TagName="town-hall" Count="1" />
+  <row Id="925" TagName="city-planning" Count="1" />
+  <row Id="940" TagName="house-of-lords" Count="1" />
+  <row Id="942" TagName="eminent-domain" Count="1" />
+  <row Id="943" TagName="populism" Count="1" />
+  <row Id="945" TagName="environmental-policy" Count="3" />
+  <row Id="947" TagName="game-theory" Count="1" />
+  <row Id="948" TagName="kosovo" Count="1" />
+  <row Id="950" TagName="social-policy" Count="2" />
+  <row Id="951" TagName="admiralty-law" Count="1" />
+  <row Id="952" TagName="brazil" Count="1" />
+  <row Id="953" TagName="comparative-politics" Count="1" />
+  <row Id="954" TagName="invasion" Count="1" />
+  <row Id="955" TagName="ohio" Count="1" />
+  <row Id="956" TagName="narendra-modi" Count="1" ExcerptPostId="16353" WikiPostId="16352" />
+</tags>
