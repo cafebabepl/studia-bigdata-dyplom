@@ -8,7 +8,7 @@ import org.kozlowscy.studia.bigdata.dyplom.program.StackExchangeProgram._
 
 object PoliticsStackExchangeProgram {
 
-  val log = Logger.getLogger(PoliticsStackExchangeProgram.getClass)
+  private val log = Logger.getLogger(PoliticsStackExchangeProgram.getClass)
 
   def main(args: Array[String]): Unit = {
     log.info("Rozpoczęcie programu")

@@ -8,8 +8,8 @@ import org.kozlowscy.studia.bigdata.dyplom.program.StackExchangeProgram._
 
 object StackOverflowProgram {
 
-  val log = Logger.getLogger(StackOverflowProgram.getClass)
-  
+  private val log = Logger.getLogger(StackOverflowProgram.getClass)
+
   def main(args: Array[String]): Unit = {
     log.info("Rozpoczęcie programu")
 

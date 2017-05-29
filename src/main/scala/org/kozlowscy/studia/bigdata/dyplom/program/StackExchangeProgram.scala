@@ -15,7 +15,7 @@ import scala.reflect.ClassTag
   */
 object StackExchangeProgram {
 
-  val log = Logger.getLogger(StackExchangeProgram.getClass)
+  private val log = Logger.getLogger(StackExchangeProgram.getClass)
 
   // filtr wiersza danych z pliku XML
   def XML_ROW_FILTER: String => Boolean = _.trim.startsWith("<row ")
